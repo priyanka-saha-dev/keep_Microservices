@@ -1,0 +1,24 @@
+{
+  "name": "keep_L1_Microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test/*.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-fs": "^2.0.0",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.0",
+    "eslint-plugin-jasmine": "^2.10.1"
+  }
+}
