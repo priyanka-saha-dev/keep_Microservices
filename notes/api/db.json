@@ -1,0 +1,25 @@
+{
+  "notes": [
+    {
+      "noteId": 1,
+      "title": "Read Angular5 blog",
+      "text": "Shall do at 6 pm",
+      "state": "started",
+      "userid" : "u1"
+    },
+    {
+      "noteId": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions",
+      "state": "started",
+      "userid" : "u1"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "noteId": 3,
+      "state": "completed",
+      "userid" : "u2"
+    }
+  ]
+}
