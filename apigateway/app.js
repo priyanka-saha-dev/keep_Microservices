@@ -1,5 +1,5 @@
-const express = require('./node_modules/express');
-const proxy = require('./node_modules/http-proxy-middleware');
+const express = require('express');
+const proxy = require('http-proxy-middleware');
 const config = require('./config');
 
 let app = express();
